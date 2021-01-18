@@ -1,0 +1,21 @@
+{
+    "name": "vscode-theme-antidark",
+    "displayName": "Antidark Light Theme",
+    "description": "A light theme like VS Code's default dark theme color scheme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Antidark Light+",
+                "uiTheme": "vs",
+                "path": "./themes/antidark_light_plus.json"
+            }
+        ]
+    }
+}
