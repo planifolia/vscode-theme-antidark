@@ -6,7 +6,7 @@
         "titleBar.inactiveBackground": "#D4D4D4",
         "menu.background": "#FDFDFD",
         "editor.background": "#FAFAFA",
-        "editor.foreground": "#171717",
+        "editor.foreground": "#111111",
         "editor.inactiveSelectionBackground": "#e3ecf5",
         "editor.selectionHighlightBackground": "#d5eaff67",
         "editorHoverWidget.background": "#FDFDFD",
@@ -62,7 +62,7 @@
         "terminal.ansiBrightRed": "#CD3131",
         "terminal.ansiBrightMagenta": "#d641d6",
         "terminal.ansiBrightYellow": "#bd8100",
-        "terminal.ansiBrightWhite": "#171717",
+        "terminal.ansiBrightWhite": "#111111",
         "terminal.selectionBackground": "#61616130"
     },
     "semanticHighlighting": true

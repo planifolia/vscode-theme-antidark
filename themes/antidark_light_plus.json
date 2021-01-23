@@ -13,7 +13,7 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#695d28"
+				"foreground": "#806d4e"
 			}
 		},
 		{
@@ -54,7 +54,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#07b6b6"
+				"foreground": "#12afa2"
 			}
 		},
 		{
@@ -68,7 +68,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#07b6b6"
+				"foreground": "#12afa2"
 			}
 		},
 		{
@@ -94,7 +94,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#15658a"
+				"foreground": "#2f668b"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#15adff",
+				"foreground": "#09a7fc",
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#28c2ff"
+				"foreground": "#14bcff"
 			}
 		},
 		{
@@ -163,25 +163,25 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#695d28"
+				"foreground": "#806d4e"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#daaf22"
+				"foreground": "#daa022"
 			}
 		},
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#daaf22"
+				"foreground": "#daa022"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 	"semanticTokenColors": {
 		"newOperator":"#c24db8",
 		"stringLiteral":"#cc631e",
-		"customLiteral": "#695d28",
-		"numberLiteral": "#457a2b",
+		"customLiteral": "#806d4e",
+		"numberLiteral": "#6f8d52",
 	}
 }

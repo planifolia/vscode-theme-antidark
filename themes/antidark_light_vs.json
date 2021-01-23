@@ -9,7 +9,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#696969"
+				"foreground": "#888888"
 			}
 		},
 		{
@@ -33,13 +33,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#26a500"
+				"foreground": "#259e00"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#457a2b"
+				"foreground": "#6f8d52"
 			}
 		},
 		{
@@ -62,19 +62,19 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#daaf22"
+				"foreground": "#daa022"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#15658a"
+				"foreground": "#2f668b"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#daaf22"
+				"foreground": "#daa022"
 			}
 		},
 		{
@@ -108,14 +108,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#457a2b"
+				"foreground": "#6f8d52"
 			}
 		},
 		{
@@ -139,13 +139,13 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#26a500"
+				"foreground": "#259e00"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -185,31 +185,31 @@
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#457a2b"
+				"foreground": "#6f8d52"
 			}
 		},
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#15658a"
+				"foreground": "#2f668b"
 			}
 		},
-		{
+		{	
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -218,7 +218,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -256,7 +256,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#696969"
+				"foreground": "#888888"
 			}
 		},
 		{
@@ -278,25 +278,25 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#15658a"
+				"foreground": "#2f668b"
 			}
 		},
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#696969"
+				"foreground": "#888888"
 			}
 		},
 		{
@@ -313,13 +313,13 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#457a2b"
+				"foreground": "#6f8d52"
 			}
 		},
 		{
@@ -328,19 +328,19 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		},
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#15658a"
+				"foreground": "#2f668b"
 			}
 		},
 		{
 			"scope": "constant.sha.git-rebase",
 			"settings": {
-				"foreground": "#457a2b"
+				"foreground": "#6f8d52"
 			}
 		},
 		{
@@ -351,21 +351,21 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#696969"
+				"foreground": "#888888"
 			}
 		},
 		{
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#008eec"
+				"foreground": "#0e8bdf"
 			}
 		}
 	],
 	"semanticTokenColors": {
-		"newOperator": "#696969",
+		"newOperator": "#888888",
 		"stringLiteral": "#cc631e",
-		"customLiteral": "#696969",
-		"numberLiteral": "#457a2b",
+		"customLiteral": "#888888",
+		"numberLiteral": "#6f8d52",
 	}
 }
