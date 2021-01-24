@@ -2,7 +2,13 @@
     "name": "theme-antidark-light",
     "displayName": "Antidark Light Theme",
     "description": "A light theme like VS Code's default dark theme color scheme.",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "publisher": "planifolia",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/planifolia/vscode-theme-antidark.git"
+    },
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "*"
     },
