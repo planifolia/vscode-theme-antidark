@@ -32,7 +32,7 @@
         "sideBarSectionHeader.background": "#0000",
         "sideBarSectionHeader.border": "#61616130",
         "list.hoverBackground": "#F0F0F0",
-        "list.activeSelectionBackground": "#006AB1C0",
+        "list.activeSelectionBackground": "#006AB1",
         "list.inactiveSelectionBackground": "#F0F0F0",
         "input.background": "#F5F5F5",
         "input.placeholderForeground": "#767676",
