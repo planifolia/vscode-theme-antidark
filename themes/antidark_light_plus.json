@@ -169,7 +169,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#daa022"
+				"foreground": "#ac8126"
 			}
 		},
 		{
